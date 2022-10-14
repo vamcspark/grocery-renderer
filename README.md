@@ -20,3 +20,8 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
+
+
+
+<img width="1725" alt="image" src="https://user-images.githubusercontent.com/36896872/195788351-17e786c0-e546-41f9-b66a-7fc74985af95.png">
+
